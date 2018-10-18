@@ -5,7 +5,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## 
 
 ![Node-Liri-App](assets/images/home.png).
-![Short Demo Vidoe](https://drive.google.com/file/d/1cKr9XHzt0cYy3stI0elBXkHsC7wV-mrC/view?usp=sharing).
+[Short Demo Video](https://drive.google.com/file/d/1cKr9XHzt0cYy3stI0elBXkHsC7wV-mrC/view?usp=sharing).
 
 
 ## Usage
