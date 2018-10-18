@@ -18,9 +18,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
  - npm i node-spotify-api
  - npm i moment
  - npm i dotenv
-3. Will need to provide your own keys in a .env file
-4. Follow the prompts
-5. ENJOY! 
+4. Will need to provide your own keys in a .env file
+5. Follow the prompts
+6. ENJOY! 
 
 ## Tech Used 
 
@@ -39,7 +39,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 * BandsInTown    [bandsintown API](http://www.artists.bandsintown.com/bandsintown-api).
 * Spotify    [Spotify API](https://developer.spotify.com/documentation/web-api/).
 
-##Notes 
+## Notes 
 
 * LIRI will display a prompt asking what you "What would you like Liri to do for you today?"
 
@@ -69,7 +69,7 @@ Liri will work four different ways which can take in one of the following comman
 
 ![empty](assets/images/empty-search.png).
 
-##What Each Command Should Do
+## What Each Command Should Do
 
 node liri.js concert-this `<performing artist>`
 * This will show the searched music artist's upcoming events consisiting of:
